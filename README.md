@@ -2,6 +2,6 @@
 Not the pizza
 
 ## Play the game
-Run the game by running
+Play the game by running
 
 ```php game.php```
